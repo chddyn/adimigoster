@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AdimiGoster</string>
+    <string name="editText">Adınız Soyadınız</string>
+    <string name="button1">Adımı Göster</string>
+    <string name="textview">...</string>
+</resources>
